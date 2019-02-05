@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.Assignment1{
+  height: 100px;
+  background-color: black;
+}
+#head{
+  color: white;
+}
+
+.Search{
+  text-align: center;
+}
+
+#demo{
+  width: 600px;
+  height: 30px;
+}
+#btn{
+  height: 35px;
+} 
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
